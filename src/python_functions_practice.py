@@ -74,6 +74,9 @@ def get_cube_volume(cube_length):
 def back_wards (word):
     return word[::-1]
 
+def f_to_c (temp):
+    return (temp - 32) * 5/9
+
 
 
 
